@@ -1,5 +1,5 @@
 # CNC Foam Cutter CONTROLLER AND SIMULATOR
-This is CNC Foam Cutter for Controlling 2 - 5 Axis Machines and send gcodes via. USB, it can simulate Gcode also, developed by Samupam. Visit www.samupam.com or www.samupam.in for details on Our Machines.
+This is CNC Foam Cutter for Controlling 2 - 5 Axis Machines and send gcodes via. USB, it can simulate Gcode also, developed by Samupam. Visit www.samupam.com or www.samupam.in to know more about Our Machines.
 
 <img width="1906" height="1024" alt="image" src="https://github.com/user-attachments/assets/1a96970c-a047-4b1f-aaaa-8150733dc7fe" />
 
