@@ -13,7 +13,7 @@ This is CNC Foam Cutter for Controlling 2 - 5 Axis Machines and send gcodes via.
    
 <img width="723" height="372" alt="image" src="https://github.com/user-attachments/assets/cdc1f645-5411-4780-a630-9276d82e676b" />
 
-8. You Can also change the theme to Dark/Light By pressing this icon
+7. You Can also change the theme to Dark/Light By pressing this icon
    
 <img width="643" height="215" alt="image" src="https://github.com/user-attachments/assets/f9e477d7-4996-4541-8b36-19789b82cd00" />
 
@@ -38,7 +38,8 @@ https://www.youtube.com/shorts/bECy2EGOX-Y
 
 <img width="1905" height="962" alt="image" src="https://github.com/Samupam/cncfoamcutter/blob/9cefbd85b87bc727c60f758983ed11bbffa14faa/ProPlus.png" />
 
+**Why To Choose US**
 
 
 
-For Feature Request/ feedback / Suggestion / bug please send mail to email provided in gui.   
+**For Feature Request/ feedback / Suggestion / bug please send mail to email provided in gui. **  
