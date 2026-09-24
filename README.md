@@ -25,6 +25,9 @@ Soon we will upload video on Usage of This Application on our Channel https://ww
 **9. Demo of Cutting**
 https://www.youtube.com/shorts/bECy2EGOX-Y
 
+**10. How To Download**
+
+Click on Release 
 
 **Our Machines :**
 
@@ -40,6 +43,10 @@ https://www.youtube.com/shorts/bECy2EGOX-Y
 
 **Why To Choose US**
 
+•	**Dedicated CNC Controller:** Operates independently of a computer using an optional LCD, SD card, or   WiFi.
 
+•	**Programmable Wire Heating Rate:** The rate of wire heating can be altered through the CNC program, essential for advance cutting. Additionally, we offer a manual heating knob control for a seamless transition from manual to CNC operation.
 
-**For Feature Request/ feedback / Suggestion / bug please send mail to email provided in gui. **  
+•	**Proudly Made in India:** Designed and manufactured entirely in India using predominantly indigenous components. Our firmware, also developed in-house, allows for feature customization.
+
+**For Feature Request/ feedback / Suggestion / bug please send mail to email provided in gui.**  
